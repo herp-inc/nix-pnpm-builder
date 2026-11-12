@@ -1,0 +1,11 @@
+{
+  "name": "md2json",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/ms": "^2.1.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0"
+  }
+}

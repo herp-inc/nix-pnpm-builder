@@ -1,0 +1,5 @@
+{
+  "esbuild": "const x = 1;\n",
+  "unrsResolver": "main.cjs",
+  "diskusage": "number"
+}

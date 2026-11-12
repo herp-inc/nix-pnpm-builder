@@ -1,0 +1,9 @@
+{
+  "name": "native",
+  "private": true,
+  "dependencies": {
+    "diskusage": "^1.2.0",
+    "esbuild": "^0.28.0",
+    "unrs-resolver": "1.11.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@md2json/cli",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "md2json": "./dist/cli.js"
+  },
+  "dependencies": {
+    "@md2json/core": "workspace:*",
+    "commander": "^14.0.0"
+  }
+}
